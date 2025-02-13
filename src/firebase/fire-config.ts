@@ -8,12 +8,12 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCxAEyWvn-p9ggnajGubJ7F_AI-6HrFFhQ",
-  authDomain: "gym-project-d0203.firebaseapp.com",
-  projectId: "gym-project-d0203",
-  storageBucket: "gym-project-d0203.firebasestorage.app",
-  messagingSenderId: "659713639476",
-  appId: "1:659713639476:web:7475528b25b69b503d7661"
+  apiKey: "AIzaSyCDR20VNQc1Zxc0z2QTZ3irY_stoI_LAKE",
+  authDomain: "train-3858b.firebaseapp.com",
+  projectId: "train-3858b",
+  storageBucket: "train-3858b.firebasestorage.app",
+  messagingSenderId: "1062106757421",
+  appId: "1:1062106757421:web:659ccaaac67594dabffba4"
 };
 
 // Initialize Firebase
