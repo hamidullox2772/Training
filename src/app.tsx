@@ -5,6 +5,7 @@ import Auth from "./pages/auth";
 import NoteFound from "./pages/note-found";
 import Dashboard from "./pages/dashboard";
 import Protect from "./pages/protect";
+import Information from "./pages/information";
 import { Toaster } from "sonner";
 
 const App = () => {
@@ -14,7 +15,8 @@ const App = () => {
       <Routes>
         <Route path="/">
           <Route path="/" element={<Home />} />
-          <Route path="/protect" element={<Protect />}/>
+          <Route path="/information" element={<Information />}/>
+          <Route path="/train" element={<Protect />}/>
           <Route path="/auth" element={<Auth />} />
           <Route path="/dashboard" element={<Dashboard />} />
         </Route>

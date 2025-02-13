@@ -21,11 +21,11 @@ export const featuredItems = [
 
 export const programs = [
 	{
-		title: 'Workout Videos',
+		title: 'Train Videos',
 		descr: 'Access to hundreds of free, full-length workout videos.',
 	},
 	{
-		title: 'Workout Programs',
+		title: 'Train Programs',
 		descr: 'Affordable and effective workout programs.',
 	},
 	{
@@ -35,7 +35,8 @@ export const programs = [
 ]
 
 export const navLinks = [
-	{ label: 'Home', path: '#home' },
-	{ label: 'Programs', path: '#programs' },
+	{ label: 'Home', path: '/' },
+	{ label: 'Information', path: '/information' },
+	{ label: 'Train', path: '/train' },
 ]
 

@@ -1,107 +1,90 @@
-main{
-    margin-top: 100px;
-    margin-left: 120px;
-}
-.head_text h2{
-    font-size: 60px;
-    margin-top: 120px;
-}
-.trains_1{
+.train_players_1{
     margin-top: 70px;
     display: flex;
     align-items: center;
     gap: 100px;
 }
-.trains_2{
+.train_players_2{
+    margin-top: 70px;
+    display: flex;
+    align-items: center;
+    gap: 150px;
+}
+.train_players_3{
     margin-top: 70px;
     display: flex;
     align-items: center;
     gap: 100px;
 }
-.trains_3{
-    margin-top: 70px;
-    display: flex;
-    align-items: center;
-    gap: 100px;
-}
-.t_v_1 iframe{
+.t_p_1 iframe{
     border-radius: 10px;
-    border: 3px solid blue;
+    border: 3px solid royalblue;
 }
-.t_v_1 h3{
+.t_p_1 h3{
     font-size: 30px;
     margin-top: 20px;
 }
-.t_v_1 h4{
+.t_p_1 h4{
     font-size: 20px;
     margin-top: 10px;
 }
-.t_v_2 iframe{
+.t_p_2 iframe{
     border-radius: 10px;
-    border: 3px solid white;
+    border: 3px solid greenyellow;
 }
-.t_v_2 h3{
+.t_p_2 h3{
     font-size: 30px;
     margin-top: 20px;
 }
-.t_v_2 h4{
+.t_p_2 h4{
     font-size: 20px;
     margin-top: 10px;
 }
-.t_v_3 iframe{
+.t_p_3 iframe{
     border-radius: 10px;
-    border: 3px solid green;
+    border: 3px solid gold;
 }
-.t_v_3 h3{
+.t_p_3 h3{
     font-size: 30px;
     margin-top: 20px;
 }
-.t_v_3 h4{
+.t_p_3 h4{
     font-size: 20px;
     margin-top: 10px;
 }
-.t_v_4 iframe{
+.t_p_4 iframe{
     border-radius: 10px;
-    border: 3px solid yellow;
+    border: 3px solid grey;
 }
-.t_v_4 h3{
+.t_p_4 h3{
     font-size: 30px;
     margin-top: 20px;
 }
-.t_v_4 h4{
+.t_p_4 h4{
     font-size: 20px;
     margin-top: 10px;
 }
-.t_v_5 iframe{
+.t_p_5 iframe{
     border-radius: 10px;
-    border: 3px solid black;
+    border: 3px solid darkslategray;
 }
-.t_v_5 h3{
+.t_p_5 h3{
     font-size: 30px;
     margin-top: 20px;
 }
-.t_v_5 h4{
+.t_p_5 h4{
     font-size: 20px;
     margin-top: 10px;
 }
-.t_v_6 iframe{
+.t_p_6 iframe{
     border-radius: 10px;
-    border: 3px solid red;
+    border: 3px solid orange;
 }
-.t_v_6 h3{
+.t_p_6 h3{
     font-size: 30px;
     margin-top: 20px;
 }
-.t_v_6 h4{
+.t_p_6 h4{
     font-size: 20px;
     margin-top: 10px;
-}
-.hr{
-    margin-top: 50px;
-}
-.end{
-    color: gainsboro;
-    margin-top: 50px;
-    text-align: center;
-    padding-bottom: 50px;
 }

@@ -1,5 +1,5 @@
 {
-  "name": "gym",
+  "name": "football_training",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -51,5 +51,9 @@
     "tailwindcss": "^3.4.1",
     "typescript": "^5.2.2",
     "vite": "^5.1.0"
-  }
+  },
+  "description": "React.js",
+  "main": "postcss.config.js",
+  "author": "",
+  "license": "ISC"
 }
