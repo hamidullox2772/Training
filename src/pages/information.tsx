@@ -45,7 +45,7 @@ function Information() {
 
                 <div className="t_p_6">
                     <iframe width="500" height="300" src="https://www.youtube.com/embed/HVn7wFzxF5A" title="Manuel Neuer ◐ The Goat ◑ Impossible Saves ∣ HD" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
-                    <h3>Manuel Neuer Impossible Saves.</h3>
+                    <h3>Manuel Neuer  Impossible Saves.</h3>
                     <h4>In this video we learn Neuer skills.</h4>
                 </div>
             </div>
